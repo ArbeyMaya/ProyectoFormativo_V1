@@ -1,4 +1,4 @@
-capitulo 6
+Pagina 303
 https://mysite.com:8000/images/create/?title=...&url=
 
 https://mysite.com:8000/images/create/?title=test&url=https://upload.wikimedia.org/wikipedia/commons/8/85/Django_Reinhardt_and_Duke_Ellington_%28Gottlieb%29.jpg

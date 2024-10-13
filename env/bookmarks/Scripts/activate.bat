@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\arbey\Videos\ProyectoFormativo\ProyectoFormativo_V1\env\bookmarks
+set VIRTUAL_ENV=C:\Users\arbey\OneDrive\Imágenes\proyectoFormativo\ProyectoFormativo_V1\env\bookmarks
 
 if not defined PROMPT set PROMPT=$P$G
 
